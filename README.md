@@ -3,6 +3,15 @@
 ## Description
 
 This project focused on cleaning a dataset of cafe sales records, "dirty_cafe_sales.csv," which contained approximately 10,000 records with significant missing and corrupted values. The goal was to prepare the data for analysis by addressing these issues and creating a clean, usable dataset.
+## Before and After Screenshots
+
+### Before Cleaning:
+
+![Before Cleaning](images/before.png)
+
+### After Cleaning:
+
+![After Cleaning](images/after.png)
 
 ## Data Source
 
